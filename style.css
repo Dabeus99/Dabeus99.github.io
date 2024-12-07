@@ -28,6 +28,14 @@ body {
   border: groove 1px #285430;
 }
 
+.head {
+color: #E5D9B6;
+background: black;
+border-radius: 5px;
+border: groove 1px #285430;
+box-shadow: 5px 1px 40px black;
+}
+
 i.material-symbols-outlined {
   font-size: 38px;
   color: #E5D9B6;
